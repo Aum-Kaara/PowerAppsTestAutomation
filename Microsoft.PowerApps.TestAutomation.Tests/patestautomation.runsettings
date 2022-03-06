@@ -4,7 +4,7 @@
   <RunConfiguration>
     <MaxCpuCount>1</MaxCpuCount>
     <!-- Path relative to solution directory -->
-    <ResultsDirectory>..\TestResults</ResultsDirectory>
+    <ResultsDirectory></ResultsDirectory>
 
     <!-- [x86] | x64    
       - You can also change it from menu Test, Test Settings, Default Processor Architecture -->
